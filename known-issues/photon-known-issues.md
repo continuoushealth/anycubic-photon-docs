@@ -146,6 +146,8 @@ The Anycubic Photon Slicer currently does not support intergrated graphics drive
 - Download the factory defaults gcode file and reflash EEPROM. 
 - Or update the firmware. 
 
+### Unresponsive Z Carriage
+- Follow these instructions: https://github.com/Photonsters/anycubic-photon-docs/tree/master/firmware/DeadZaxis%26Fans-Fix-181024
 
  ### Other Random Issues
  #### Symptoms
